@@ -5,7 +5,7 @@ import sqlite3
 # -----------------------------------------------------------------------------------------------------------------------------
 # Colocar nome na pagina, icone e ampliar a tela
 st.set_page_config(
-    page_title="Estacionamento",
+    page_title="Tareas",
     page_icon="🚗",
     layout="wide",
     initial_sidebar_state="expanded",
